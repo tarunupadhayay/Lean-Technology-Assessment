@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Lean Platform Technologies online assessment.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project is basically a screen which is made in react.js 
 
 ## Available Scripts
 
